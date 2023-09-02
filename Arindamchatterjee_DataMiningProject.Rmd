@@ -3,7 +3,6 @@ title: "ArindamChatterjee_DataMiningProject"
 author: "Arindam Chatterjee, Avijit Mallik, Takehiro Hasimoto"
 date: "2023-09-02"
 output:
-  pdf_document: default
   md_document:
     df_print: null
 fontsize: 16 pt
